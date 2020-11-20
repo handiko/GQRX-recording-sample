@@ -1,2 +1,2 @@
 # GQRX-recording-sample
-Small IQ recordong sample from QGRX
+Small IQ recording sample from QGRX
